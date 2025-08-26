@@ -1,3 +1,9 @@
+:root {
+    --text-color: #dbe4ef;
+    --card-fronte-color: #144480;
+    --card-back-color: #00f4bf;
+}
+
 body {
     background-color: bisque;
     font-family: "Bai Jamjuree", sans-serif;
@@ -20,7 +26,7 @@ body {
     height: 100%;
 }
 
-.cartao__conteudoh3{
+.cartao__conteudoh3 {
     background-color: tomato;
     text-align: left;
     padding: 0.5rem;
