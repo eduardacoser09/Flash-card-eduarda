@@ -32,7 +32,7 @@ body {
     transition: transform 300ms ease-in-out;
 }
 
-.cartao__conteudoh3 {
+.cartao__conteudo h3 {
     color: var(--text-color);
     border: 1px solid var(--text-color);
     text-align: left;
@@ -65,7 +65,7 @@ body {
 }
 
 .cartao__conteudo__pergunta,
-.cartao__conteudo__resposta{
+.cartao__conteudo__resposta {
     backface-visibility: hidden;
     position: absolute;
     height: 100%;
