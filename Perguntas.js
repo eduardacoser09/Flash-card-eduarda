@@ -1,14 +1,8 @@
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta'
-)
-
-criaCartao(
     'Conhecimentos gerais',
-    'Quantas patas uma formiga possui?',
+    'Quantas patas uma formiga possui',
     '6'
-)
+
 
 criaCartao(
     'Matemática',
