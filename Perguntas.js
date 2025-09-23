@@ -2,7 +2,7 @@ criaCartao(
     'Conhecimentos gerais',
     'Quantas patas uma formiga possui',
     '6'
-
+)
 
 criaCartao(
         'Matemática',
